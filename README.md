@@ -1,6 +1,8 @@
 # Power BI - Flights Dashboard
 
 This repository contains screenshots of a Power BI dashboard analyzing flight data. The dashboard provides insights on flight delays, airline performance, and other key metrics for airports and airlines.
+Link to my project: 
+https://app.powerbi.com/groups/me/reports/7cfe59ef-50f5-4f61-99da-4319d54bcbb8?experience=power-bi
 
 
 ## Screenshots
